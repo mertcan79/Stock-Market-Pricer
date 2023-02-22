@@ -23,7 +23,7 @@ A better approach would be to follow a standardized date format, such as ISO 860
 
 ## Running the project
 
-The app can be run from the command line using `python main.py`
+The app can be run from the command line using `python main.py` after running `pip install -r requirements.txt`
 
 ## Testing
 
